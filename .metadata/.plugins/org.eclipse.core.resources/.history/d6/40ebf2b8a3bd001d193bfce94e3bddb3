@@ -1,0 +1,30 @@
+package exercise;
+
+public class P_88 {
+
+	public static void main(String[] args) {
+		
+//		
+//		Q1
+//		= , == / ? /:
+		
+//		Q2
+//		10
+		
+//		Q3
+//		10,10,11,10
+		
+//		Q4
+//		false / true / false
+		
+//		Q5
+//		int num1 = 2  = 00000010
+//		int num2 = 10 = 00001010 
+//		1)
+//		2)
+//		3)
+//		4)
+		
+	}
+
+}
