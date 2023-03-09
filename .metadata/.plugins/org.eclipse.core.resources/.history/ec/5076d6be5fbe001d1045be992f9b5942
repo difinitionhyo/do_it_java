@@ -1,0 +1,23 @@
+package exercise;
+
+public class P_100_grade {
+
+	public static void main(String[] args) {
+		/*100~90 A
+		 * 89~80 b
+		 * 79 70 c
+		 * 69 60 d 
+		 * 나머지 F
+		 * int score
+		 * char grade
+		 * score에따른 grade
+		 */
+		int score = 89;
+		char grade;
+		if(score <= 100 && score >= 90) {
+			char grade = A;
+		}
+		
+	}
+
+}
