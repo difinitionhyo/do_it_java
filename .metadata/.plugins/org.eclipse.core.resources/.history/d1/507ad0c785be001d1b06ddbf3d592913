@@ -1,0 +1,37 @@
+package alone;
+
+public class P_106_switchCase {
+
+	public static void main(String[] args) {
+		/* 
+		 * 5층 건물, 1층약국 2층 정형외과 3층피부과 4층치과 5층헬스클럽
+		 * 엘리베이터가있는데 층을 누르면 그층이 어느곳인지 알려줌
+		 * 5인경우 5층헬스클럽입니다 출력
+		 */
+		int stair = 6;
+		string ment;
+		switch(stair) {
+		case 1 : 
+			System.out.println("1층 약국입니다");
+			break;
+		case 2 : 
+			System.out.println("2층 정형이ㅗ과입니다");
+			break;
+		case 3 : 
+			System.out.println("3층 피부과입니다");
+			break;
+		case 4 : 
+			System.out.println("4층 치과입니다");
+			break;
+		case 5 : 
+			System.out.println("5층 헬스클럽입니다");
+			break;
+			
+		default : 
+			System.out.println("이 건물은 1~5층까지입니다");
+			break;
+		}
+		
+	}
+
+}

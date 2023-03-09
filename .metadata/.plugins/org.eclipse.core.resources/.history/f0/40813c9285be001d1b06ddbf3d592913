@@ -1,0 +1,19 @@
+package alone;
+
+public class P_106_switchCase {
+
+	public static void main(String[] args) {
+		/* 
+		 * 5층 건물, 1층약국 2층 정형외과 3층피부과 4층치과 5층헬스클럽
+		 * 엘리베이터가있는데 층을 누르면 그층이 어느곳인지 알려줌
+		 * 5인경우 5층헬스클럽입니다 출력
+		 */
+		int stair = 1;
+		
+		switch(stair) {
+		case 1: 
+		}
+		
+	}
+
+}

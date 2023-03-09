@@ -1,0 +1,16 @@
+package alone;
+
+public class P_114_for {
+
+	public static void main(String[] args) {
+		/*
+		 * for문,변수 사용 안녕하세요1~10까지
+		 */
+		String hi = "안녕하세요";
+		int i = 1;
+		for(i = 1; i < 11; i++) {
+			System.out.println(hi + i);
+		}
+	}
+
+}

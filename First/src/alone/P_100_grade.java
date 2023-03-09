@@ -1,0 +1,38 @@
+package alone;
+
+public class P_100_grade {
+
+	public static void main(String[] args) {
+		/*100~90 A
+		 * 89~80 b
+		 * 79 70 c
+		 * 69 60 d 
+		 * 나머지 F
+		 * int score
+		 * char grade
+		 * score에따른 grade
+		 */
+		int score = 103;
+		char grade = 0;
+		if(score > 100 || score < 0) {
+			System.out.println("점수 입력 오류");
+		}
+		else if(score <= 100 && score >= 90) {
+			grade = 'A';
+		}
+		else if(score >= 80) {
+			grade = 'B';
+		}
+		else if(score >= 70) {
+			grade = 'C';
+		}	
+		else if(score >= 60) {
+			grade = 'D';
+		}
+		else {
+			grade = 'F';
+		}
+		System.out.println(score + "에 따른 grade : " + grade);
+	}
+
+}
