@@ -1,0 +1,15 @@
+package exercise;
+
+public class P_123_Q4 {
+
+	public static void main(String[] args) {
+		int row = 1;
+		while(row < 5) {
+			System.out.println("*");
+			System.out.println();
+		}
+		
+
+	}
+
+}
