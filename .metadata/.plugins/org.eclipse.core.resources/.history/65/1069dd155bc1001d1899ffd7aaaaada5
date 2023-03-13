@@ -1,0 +1,33 @@
+package exercise;
+
+public class P_123_Q4 {
+
+	public static void main(String[] args) {
+		/*
+		 * 1번 row 널스트링 3번 & 별1번
+		 * 2번 row 널스트링 2번 & 별3개
+		 * 3 :              1번   별5개
+		 * 
+		 * 
+		 * 4:               0번   별7개
+		 */
+		
+			
+			
+			
+			
+		}
+		
+		
+		
+	
+	
+}
+		
+		
+		
+		
+		
+	
+
+

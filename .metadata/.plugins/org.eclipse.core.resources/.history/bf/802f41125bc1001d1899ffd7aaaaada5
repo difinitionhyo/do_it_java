@@ -1,0 +1,41 @@
+package exercise;
+
+public class P_123_Q4 {
+
+	public static void main(String[] args) {
+		/*
+		 * 1번 row 널스트링 3번 & 별1번
+		 * 2번 row 널스트링 2번 & 별3개
+		 * 3 :              1번   5개
+		 * 4:                0     7개
+		 */
+		int row = 1; // 1부터시작해서 4행까지
+		int spaceBar = 3;
+		String spa = " "; // 3 2 1 0
+		String star = "*"; // 1 3 5 7 
+		
+		for(row = 1; row < 8; row++) {
+			if(row % 2 == 0) {
+				continue;
+			}
+			System.out.println(star);
+			}
+			
+			
+			
+			
+		}
+		
+		
+		
+	
+	
+}
+		
+		
+		
+		
+		
+	
+
+
