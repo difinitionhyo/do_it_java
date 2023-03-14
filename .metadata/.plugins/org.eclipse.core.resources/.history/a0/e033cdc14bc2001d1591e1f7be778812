@@ -1,0 +1,20 @@
+package alone;
+
+public class FunctionTest {
+
+	public static void main(String[] args) {
+		// 사칙연산 수행하는 함수 모두 구현하고 결과값 출력
+		
+	// +
+		public static int add(int n1, int n2) {
+			int result = n1 + n2;
+			return result;
+			System.out.println(result);
+			
+		}
+		
+		
+
+	}
+
+}

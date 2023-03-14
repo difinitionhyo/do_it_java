@@ -1,0 +1,12 @@
+package alone;
+
+public class Order {
+	String orderNum;
+	String id;
+	String data;
+	String name;
+	String giftNum;
+	String adress;
+	
+	
+}

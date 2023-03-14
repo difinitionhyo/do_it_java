@@ -1,0 +1,14 @@
+package alone;
+
+public class Person {
+	int age;
+	String name;
+	boolean isMarried;
+	int children;
+	public void personInfo(){
+		syso
+		
+	}
+}
+
+		

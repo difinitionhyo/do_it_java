@@ -1,0 +1,20 @@
+package alone;
+
+public class Order {
+	String orderNum;
+	String id;
+	String data;
+	String name;
+	String giftNum;
+	String adress;
+	
+	public void orderInfo() {
+		System.out.println("주문 번호 : " + orderNum);
+		System.out.println("주문자 아이디 : " + id);
+		System.out.println("주문 날짜 : " + data);
+		System.out.println();
+		System.out.println();
+		System.out.println();
+	}
+	
+}

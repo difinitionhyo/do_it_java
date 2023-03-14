@@ -1,0 +1,15 @@
+package alone;
+
+public class P_152_ {
+
+	public static void main(String[] args) {
+		Person p1 = new Person();
+		p1.age = 40;
+		p1.name = "James";
+		p1.isMarried = true;
+		p1.children = 3;
+		
+		p1.personInfo();
+	}
+
+}

@@ -1,0 +1,20 @@
+package classpart;
+
+public class FunctionTest {
+
+	public static void main(String[] args) {
+		
+		// 두 정수를 더한후 결과값을 도렬주는 함수 만들고 호출
+		
+
+	}
+
+	
+	
+	public static int add(int num1, int num2) {
+		int result = num1 + num2;
+		System.out.println(result);
+	}
+}
+
+
